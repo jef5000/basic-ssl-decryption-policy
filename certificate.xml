@@ -1,0 +1,32 @@
+<entry name="basic-ssl-decrypt-cert">
+    <subject-hash>73bc5041</subject-hash>
+    <issuer-hash>73bc5041</issuer-hash>
+    <not-valid-before>May 22 00:13:58 2019 GMT</not-valid-before>
+    <issuer>/CN=basic-ssl-decrypt-cert.local</issuer>
+    <not-valid-after>May 21 00:13:58 2020 GMT</not-valid-after>
+    <common-name>basic-ssl-decrypt-cert.local</common-name>
+    <expiry-epoch>1590020038</expiry-epoch>
+    <ca>yes</ca>
+    <subject>/CN=basic-ssl-decrypt-cert.local</subject>
+    <public-key>-----BEGIN CERTIFICATE-----
+        MIIC7jCCAdagAwIBAgIJAI3RBh9c45w9MA0GCSqGSIb3DQEBCwUAMCcxJTAjBgNV
+        BAMTHGJhc2ljLXNzbC1kZWNyeXB0LWNlcnQubG9jYWwwHhcNMTkwNTIyMDAxMzU4
+        WhcNMjAwNTIxMDAxMzU4WjAnMSUwIwYDVQQDExxiYXNpYy1zc2wtZGVjcnlwdC1j
+        ZXJ0LmxvY2FsMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArPh5fyUS
+        xhKW3Pmeel7SUw9I95ENwmVGG9M8RZZITU632sQO3hzmUXZa1laxxmH7fi+i8cw+
+        eRdhddPZY5nJqJaJvi/Nc/FSnOAJGwUbnIveUplYtQJXeZG3QErB8cWjYoaBkLx8
+        Ox3SGBdy93BPmODLX5JXBa6ZgfxruR1FACeeNKkXYmjsD9Pc1S4QdS0lHYsddUJU
+        twZ3k7Ecu+X9FNo5+1b7F9HnXl5Qo2r5lgQj+DVjWLnQ41f8HO/Hv5LkUL8BdboR
+        vzTlVo9WV/LM0rifc5W9ZdyYw9chUZh/5OjPe3Kph6Pg2CfLaaMmRbcJ9KViRVI7
+        lGXILh0//z2juQIDAQABox0wGzAMBgNVHRMEBTADAQH/MAsGA1UdDwQEAwICBDAN
+        BgkqhkiG9w0BAQsFAAOCAQEAh3rgr2AfpAdhohiS/Fe2tazMk1lJ4jqPNcVWJWrT
+        47CY9us1WdEMyy1k8dpkPuFyhYyNoGov0eGZiJWQflJ7Wrcs1b82PWfg1SzsSUOQ
+        gZCpE8eDtBhiVwA20UBZyFZ94gsK7RUWGzPTaseXQPka/x16rP0LqxBtwuscsOXT
+        uLewtSbOv9eCE/ULjBkuKtUPzByts4HF2jCqeXZw2mufOafUEFsW3HewH4YhS5hE
+        NifB0lLSwKEf/mY8IMnBhvgupMthidW3aHMKWFc0k5JHW5/CjAhb5JhZXL/vxfor
+        Hv38xz1ZTyLkcQHxQqn5QOWIP8ejKFpsDDsCJ9AdpqqScA==
+        -----END CERTIFICATE-----
+    </public-key>
+    <algorithm>RSA</algorithm>
+    <private-key>-AQ==BXoaBNUMfVKmWoY2m3NYWsJWBHs=wfL5Zc+wUAak+B7CnAVY6NdutYWtt67XvF+yGHFGS+v3hQ6NGerTNEn2/C/2TE210I1QMmq2diqTphTHBBLyMu3WwWRKNZHV289k0jK65w7xAYgXLc/e5C/oHS5lueEfgpUXl0cfBKZjxTLD/8iVoXetmqRSsGOJZIpvoGNuYtSq0ZEMzDgIi52YerPYb9lakew4QAbGPPLyeUmJ+ysdWNbSxixWCCNqQegsc4YTLuZpljfgvAGaw0V+bJgg+bqbLM3ZoA9nLK9iHN3EQF1qKiJ/8B4GXR4e0yeb+kl25paNZQBiYnKjfA1rImeg5KZC+uCI6Uuq8FA0lBQvqszVmfw6CwVmKJA+JeJyUgmLGpgV1Yv+fOKvj6p+dPwPfbLWcIdNclcoyt3tYG5BbGQ4W9CiMFeCNF5JrjdkEX0imulAQCzylWGVZEdU6oqQJyPfyij2/V5a2e0g/H+eL3qnXCrMvLOPMVuYarIElPEUWFPnZ+iO+9/YEN7Muf1DePWKxR9KpNGUVllnSodw5Mu+1Y8zM7Rau+o5e5i4j01JcRBRx6WmHoGb6ML4osZm8VXWC2QV0fgebJT63xam0Qg5582Tv796HBdTZR4iucCvxu4qbJmvCW8hIpniVRQbacLTJ9sw27C/XIfOMEIybge6OJn3v3kK8GW7CmK2yF8T/kpZRhtl2eU5Rn0K8kjU5oV1ggs1XvOeOCNHR/KggpvIe8uQrIx4+1fziz6sqlTO0NGvz4jZoVIQP+d1MEviGUJfvrLQIZh9vGCup8ErH7hWFCul+dmetsg5RjpxXu0giJGwtQfiMa7XvsfEMCoTZVaKsU+AbpXUo3f/6YF3Or7vulnI5B9BM8DCdMK/DK/h0xkDQ/ljII3rEwbHqAeheejEICDJi4CDJ08yeEY14qjOH/mQQVGJIJ63Vh+rkQCbYzJ5fuZTZtg7czHB9EesNvvHAfAw/p+hwOzOt4Ok9sJqeieivDtHE0ThR3RI+xzj7OM0EMTTv57gic+r4y2ALnM4ZCrdyQbXYM+hOc0T1Eh+KINLqT/yx3+91onSzqB3NjlD0JNL9tmvy/HUfagrW7IJprgDn1sR6hIwu+HG1SBxX3fHoBMhMoRxCPnPqETkHS48Cr9xLC7HDJofYSC3ySovIvbJlNnHe6bGY49TZc+8x74nvPo+b0fOc0lq02ivy0msirqGbjgZbHHPGN3VU8z7tRmrpbS/E4Bpd9ZOmMmJDR6ibQnqUyr0u32/MFOK8a6jsZs60nLQeO/bZDtI/NZxZfmOHGP7y8D0/ez+Yjft8y8flB10rGCZ5knQCrioH/QVo4ASgOaBvh1fUrcPSnFlOvVh0TTIFWahWBZUBWaLVHM03v+acWb0Oa2F6OjDzWy/3gV2x+kqLVn+gKDXcBLwn7/iS/huNvDug7RrJTWyV65SyQXXutFMD25wFymgoGiNKDa2lsvDhankEn8zT5NLCFUnK5BOJYoPn0uZY8zEvth0exh0N4il2QNfq9A3yXsu+fjIsWIXzcAVuxIs6CZy2pxIOxxPeH9okzzbWRBoK9R9gVqal4YfTQKLV0tBGvvD8s3ivz9VYpIjWamyHgpHeoFI3caC0O//pNRkISmceNuR3H7zBqp3m4M9QK3gsRyme0jShzpptd58cXZfzEw7Ckc2KeSvhypoIn/th5QxNCdEGQmbyE5h3qJWGyfXRUb6Qj2R7J7761jWJiv9nm6yXI5b2pSa5x3bX+EvAa/jDHparUHySI5TIKjgYaIZMyybkNuFLEuQF6K+mk8IOLdvufRnY6qC/MVuboohNrHe1hJTK1yYKIvwb21ia3kLJxJ9CotRAToOHZeFYsL9jtiG/AQt2oOQCBaeRd4IEhtCCjJv6T5Sji4/9xb4Kl/vH8N4m9Aa53er/KlCSPxuA58FqEFSb0wFniEBBoqPMutSG0qDUY3ni7sabxHO6PMdjJudNh9LhX4nIHvwCm6L4+Wh90bLIr0REt5uFuqNyTgq8BqDR8ovHFdg4BxHqD8Gnt69KAAANDWHusYRwEI3aYQuT3UrbjU7hP/ZzMUAGli+whvUWJqtk2w4GI+WtZDIn7Se3KJksRo2IPbS/bf+Rxlxj5mHykPjaKR8JYPWv9fzfs8+J7Po6WsSuSqajpMQ7agzo0gWZrZ7CsRzmD9HjXLt57HoxKwWiuNj3y5rBZrf9Qppko9sSMtpBNfDpfLl+Eu75gQCdLaAjGBnfoA/QHKH</private-key>
+</entry>

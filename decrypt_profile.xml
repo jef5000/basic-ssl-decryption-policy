@@ -1,0 +1,10 @@
+<entry name="block-untrusted-issuers">
+ <ssl-forward-proxy>
+  <block-expired-certificate>yes</block-expired-certificate>
+  <block-untrusted-issuer>yes</block-untrusted-issuer>
+  <block-unknown-cert>yes</block-unknown-cert>
+  <block-timeout-cert>yes</block-timeout-cert>
+  <block-unsupported-version>yes</block-unsupported-version>
+  <block-unsupported-cipher>yes</block-unsupported-cipher>
+ </ssl-forward-proxy>
+</entry>
