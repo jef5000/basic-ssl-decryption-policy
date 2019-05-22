@@ -45,6 +45,9 @@ snippets:
   - name: forward-trust
     xpath: /config/shared/ssl-decrypt/forward-trust-certificate
     file: forward_trust.xml
+  - name: eicar-url
+    xpath: /config/devices/entry[@name='localhost.localdomain']/vsys/entry[@name='vsys1']/profiles/custom-url-category
+    file: eicar_url.xml
   - name: decrypt-profile
     xpath: /config/devices/entry[@name='localhost.localdomain']/vsys/entry[@name='vsys1']/profiles/decryption
     file: decrypt_profile.xml
