@@ -1,7 +1,13 @@
-<entry name="eicar-test-file-site">
- <list>
-   <member>*.eicar.org</member>
-   <member>eicar.org</member>
- </list>
- <type>URL List</type>
+<entry name="{{ vsys }}">
+    <profiles>
+        <custom-url-category>
+            <entry name="eicar-test-file-site">
+                <list>
+                 <member>*.eicar.org</member>
+                 <member>eicar.org</member>
+                </list>
+                <type>URL List</type>
+            </entry>
+        </custom-url-category>
+    </profiles>
 </entry>

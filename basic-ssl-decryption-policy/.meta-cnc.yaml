@@ -31,6 +31,10 @@ variables:
     description: Firewall hostname
     default: myFirewall
     type_hint: text
+  - name: vsys
+    description: Vsys Name
+    default: vsys1
+    type_hint: text
 # ---------------------------------------------------------------------
 # end of variables section
 
@@ -46,7 +50,7 @@ snippets:
     xpath: /config/shared/ssl-decrypt/forward-trust-certificate
     file: forward_trust.xml
   - name: eicar-url
-    xpath: /config/devices/entry[@name='localhost.localdomain']/vsys/entry[@name='vsys1']/profiles/custom-url-category
+    xpath: /config/devices/entry[@name='localhost.localdomain']/vsys
     file: eicar_url.xml
   - name: decrypt-profile
     xpath: /config/devices/entry[@name='localhost.localdomain']/vsys/entry[@name='vsys1']/profiles/decryption
