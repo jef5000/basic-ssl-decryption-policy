@@ -4,7 +4,7 @@
 name: basic-ssl-decryption-policy
 # label used for menu selection
 label: basic-ssl-decryption-policy
-description: This skillet will create a basic ssl decryption policy that only decrypts high-risk url categories
+description: This skillet creates a basic ssl decryption policy that only decrypts high-risk url categories
 
 # type of device configuration
 # common types are panorama, panos, and template
