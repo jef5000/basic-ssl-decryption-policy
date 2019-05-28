@@ -53,10 +53,10 @@ snippets:
     xpath: /config/devices/entry[@name='localhost.localdomain']/vsys
     file: eicar_url.xml
   - name: decrypt-profile
-    xpath: /config/devices/entry[@name='localhost.localdomain']/vsys/entry[@name='vsys1']/profiles/decryption
+    xpath: /config/devices/entry[@name='localhost.localdomain']/vsys
     file: decrypt_profile.xml
   - name: decrypt_rule
-    xpath:  /config/devices/entry[@name='localhost.localdomain']/vsys/entry[@name='vsys1']/rulebase/decryption/rules
+    xpath:  /config/devices/entry[@name='localhost.localdomain']/vsys
     file: decrypt_rule.xml
 # ---------------------------------------------------------------------
 # end of snippets section

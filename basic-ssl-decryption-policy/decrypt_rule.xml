@@ -1,4 +1,8 @@
-<entry name="basic-ssl-decrypt-policy" uuid="b50a59d4-7899-4fcd-aa19-015c80fcae4b">
+<entry name="{{ vsys }}">
+    <rulebase>
+        <decryption>
+            <rules>
+                <entry name="basic-ssl-decrypt-policy" uuid="b50a59d4-7899-4fcd-aa19-015c80fcae4b">
                   <category>
                     <member>adult</member>
                     <member>command-and-control</member>
@@ -45,3 +49,7 @@
                   <profile>block-untrusted-issuers</profile>
                   <description>This rule uses the basic-ssl-decrypt-certificate to apply decryption to risky url categories.  For testing purposes, a custom category for eicar has also been added to test proper ssl decryption.  Note that an anti-virus profile to block viruses must also exist to block the eicar download.</description>
                 </entry>
+            </rules>
+        </decryption>
+    </rulebase>
+</entry>
